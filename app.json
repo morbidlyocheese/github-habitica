@@ -8,7 +8,7 @@
     "github"
   ],
   "env": {
-    "PYTHON_VERSION": "3.8",
+    "PYTHON_VERSION": "3.8.5",
     "USER_KEY": "dabfa727-cc8f-466c-a4e1-252bf4c3fcaf",
     "API_KEY": "93fd567e-05a2-4a48-8992-937a063c85b5",
     "LABEL_TO_IGNORE": "byebye"
