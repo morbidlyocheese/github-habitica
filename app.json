@@ -8,16 +8,9 @@
     "github"
   ],
   "env": {
-    "USER_KEY": {
-      "description": "The unique Habitica User ID (https://habitica.com/#/options/settings/api)."
-    },
-    "API_KEY": {
-      "description": "the secret Habitica API Token (https://habitica.com/#/options/settings/api)."
-    },
-    "LABEL_TO_IGNORE": {
-      "description": "A label that can be added to Github issues that will cause the service to ignore issues",
-      "value": "github-rpg-ignore"
-    }
+    "USER_KEY": "dabfa727-cc8f-466c-a4e1-252bf4c3fcaf",
+    "API_KEY": "93fd567e-05a2-4a48-8992-937a063c85b5",
+    "LABEL_TO_IGNORE": "byebye"
   },
   "buildpacks": [
     {
